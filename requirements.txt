@@ -1,0 +1,5 @@
+ua-gec==2.0.0
+errant==3.0.0
+stanza==1.4.2
+Levenshtein
+sentence-transformers
