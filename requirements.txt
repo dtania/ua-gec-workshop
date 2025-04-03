@@ -1,0 +1,6 @@
+ua-gec==2.0.0
+errant==2.3.3
+spacy==2.3.9
+stanza==1.4.2
+numpy<2
+Levenshtein
