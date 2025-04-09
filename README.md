@@ -1,7 +1,11 @@
 # ua-gec-workshop
-Data and code for the workshop held as a part of the 'Building LLM-Powered Features' Grammarly meetup.
+Data and code for the workshop held as a part of the ['Building LLM-Powered Features' Grammarly meetup](https://www.facebook.com/events/1008154811405353/).
 
 ## Contents
+### Workshop Notebook
+
+Tasks for the workshop can be found in [Ukrainian_GEC.ipynb](https://github.com/dtania/ua-gec-workshop/blob/main/Ukrainian_GEC.ipynb).
+
 ### Data
 
 The data is extracted from [UNLP 2023 Shared Task data](https://github.com/unlp-workshop/unlp-2023-shared-task/tree/main/data/gec-only) for [GEC-only track](https://github.com/unlp-workshop/unlp-2023-shared-task/tree/main?tab=readme-ov-file#track-1-gec-only). The script for downloading and cleaning the data can be found [here](https://github.com/dtania/ua-gec-workshop/blob/main/utils/clean_data.py). Data files are stored in [data/dev](https://github.com/dtania/ua-gec-workshop/tree/main/data/dev) and [data/eval](https://github.com/dtania/ua-gec-workshop/tree/main/data/eval).
